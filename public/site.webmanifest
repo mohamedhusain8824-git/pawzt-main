@@ -1,0 +1,22 @@
+{
+  "name": "Pawzy",
+  "short_name": "Pawzy",
+  "description": "Trusted pet care services for grooming, walking, vet consultation, boarding, and sitting.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#32D1B6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
